@@ -1,0 +1,13 @@
+body {
+  direction: ltr;
+  text-align: right;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  background-image: url("./pic/natural.jpg"); /* ضع لينك الصورة أو المسار */
+  background-size: cover; /* تخلي الصورة تغطي الشاشة كلها */
+  background-repeat: no-repeat; /* تمنع التكرار */
+  background-attachment: fixed; /* تخلي الخلفية ثابتة عند الاسكرول */
+  background-position: center; /* تخلي الصورة في النص */
+  font-family: Arial, sans-serif;
+}
