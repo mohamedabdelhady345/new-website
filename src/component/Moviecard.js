@@ -1,4 +1,5 @@
 import React from "react";
+import fastFurious from "../pic/Fast-Furious.jpg";
 
 function Moviecard() {
   return (
@@ -15,7 +16,7 @@ function Moviecard() {
     >
       {/* صورة البوستر */}
       <img
-        src="../pic/Fast-Furious.jpg"
+        src={fastFurious}
         alt="poster movie"
         style={{
           width: "100%",
