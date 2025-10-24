@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/new-website/static/css/main.ee5972be.css",
+    "main.js": "/new-website/static/js/main.07503a99.js",
+    "static/media/Fast-Furious.jpg": "/new-website/static/media/Fast-Furious.8c7a9f03b7cb968a27a7.jpg",
+    "static/media/natural.jpg": "/new-website/static/media/natural.2c5e46935e219fec8e7d.jpg",
+    "index.html": "/new-website/index.html",
+    "main.ee5972be.css.map": "/new-website/static/css/main.ee5972be.css.map",
+    "main.07503a99.js.map": "/new-website/static/js/main.07503a99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee5972be.css",
+    "static/js/main.07503a99.js"
+  ]
+}
